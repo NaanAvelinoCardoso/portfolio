@@ -1,0 +1,21 @@
+PLANEJAMENTO DO SITE: 
+
+1- site todo centralizado
+2- header com a logo a esquerda e o menu no meio
+3- no main coloca um texto de boas vinda e um botao de SOBRE MIM
+4- uma section de "servicos" e dentro tera 4 bloquinhos do tipo de serviço menu
+5- outra section com as minhas skills 
+6- uma section falando sobre MIM
+7- uma section com contato
+8- por ultimo o rodape do site.
+
+
+PLANEJAMENTO DE CORES:
+
+1- preto  #000000
+2- verde  #00FF7F
+3- vermelho meio rosa  #DC143C
+4- color header e main #cc00ff
+
+
+

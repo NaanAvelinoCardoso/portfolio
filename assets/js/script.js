@@ -34,4 +34,3 @@ if (target.length) {
         animeScroll();
     });
 }
-
